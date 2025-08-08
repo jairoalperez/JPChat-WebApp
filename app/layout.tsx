@@ -5,8 +5,8 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "jpchat - AI Portfolio Assistant",
-  description: "AI-powered chatbot for portfolio interactions",
+  title: "JPChat - Movies Chatbot",
+  description: "AI-powered chatbot for talking about movies.",
     generator: 'v0.dev'
 }
 
